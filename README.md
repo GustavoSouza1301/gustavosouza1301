@@ -26,10 +26,10 @@ Explorando o universo da programação com paixão por resolver problemas e apre
 <h3 align="left">📊Estatísticas</h3> 
 <div>
 <a href="https://github.com/GustavoSouza1301/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoSouza1301&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoSouza1301&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </a>
 <a href="https://github.com/GustavoSouza1301/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoSouza1301&layout=compact&langs_count=8&card_width=100&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoSouza1301&layout=compact&langs_count=5&card_width=50&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </a>
 </div>
 
