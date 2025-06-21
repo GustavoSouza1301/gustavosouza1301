@@ -38,3 +38,10 @@ Explorando o universo da programação com paixão por resolver problemas e apre
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeEnrique18/GuilhermeEnrique18/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeEnrique18/GuilhermeEnrique18/output/github-contribution-grid-snake.svg">
 </picture>
+
+<picture align="center"> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSouza1301/GustavoSouza1301/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSouza1301/GustavoSouza1301/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSouza1301/GustavoSouza1301/output/github-contribution-grid-
+snake.svg">
+</picture>
