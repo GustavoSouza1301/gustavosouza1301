@@ -1,7 +1,12 @@
-# 🧐💻 Olá! Sou Gustavo de Souza
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=2000&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=%F0%9F%91%8B+Eae!+Sou+Gustavo+de+Souza" alt="Typing SVG">
+  </a>
+</div>
+
 **`Desenvolvedor Back-End`**
 
-Sou um estudante de Back-End, tenho 21 anos e estou iniciando na área de programação. Atualmente estou participando do programa Com Domínio Digital 4.0 para desenvolvimento Back-end proporcionado pelo instituto Aliança.
+Explorando o universo da programação com paixão por resolver problemas e aprender novas tecnologias.
 ---
 ### 👾Linguagens e Tecnologias 
 <div style="display: inline_block"><br>
